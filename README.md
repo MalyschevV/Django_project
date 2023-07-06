@@ -1,4 +1,5 @@
 Проект библиотеки фильмов для производственной практики на языке python и фрэймворке django
+
 ![изображение](https://github.com/MalyschevV/Django_project/assets/135326895/ef35e831-cc1e-43c6-83c5-357b4ca430ec)
 ![изображение](https://github.com/MalyschevV/Django_project/assets/135326895/f007bb6a-ffff-456c-9309-a605bce13470)
 ![изображение](https://github.com/MalyschevV/Django_project/assets/135326895/12c2f8ca-4af9-49e1-8042-f86cfd458c63)
